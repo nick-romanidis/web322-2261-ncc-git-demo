@@ -18,7 +18,7 @@ var employees = [
     {
         name: 'Jane',
         age: 23,
-        occupation: 'Manager',
+        occupation: 'Director',
         company: 'RBC',
         visible: true,
         imageUrl: "woman1.jpg"
