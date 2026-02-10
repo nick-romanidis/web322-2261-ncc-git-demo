@@ -12,7 +12,7 @@ var employees = [
         age: 40,
         occupation: 'Manager',
         company: 'RBC',
-        visible: false,
+        visible: true,
         imageUrl: "man3.jpg"
     },
     {
